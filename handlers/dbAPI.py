@@ -41,10 +41,10 @@ async def getUserInfo(TGid, username, fName):
                     return newUser
 
 # Пример использования
-import asyncio
+# import asyncio
 
-async def main():
-    user = await getUserInfo(12345, "testuser", "Test")
-    print(f"User: {user.username}, First Name: {user.fName}")
+# async def main():
+#     user = await getUserInfo(12345, "testuser", "Test")
+#     print(f"User: {user.username}, First Name: {user.fName}")
 
-asyncio.run(main())
+# asyncio.run(main())
