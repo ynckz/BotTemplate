@@ -1,3 +1,1 @@
-# My own static "shortcut" of TG Bot
-
-DB: SQLite
+# ПОЛНОЕ ДЕРЬМО, НО МНЕ ЛЕНЬ ПЕРЕПИСЫВАТЬ
